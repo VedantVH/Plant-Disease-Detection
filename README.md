@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Detection Pro
+# 🌿 Plant Disease Detection 
 
 
 
@@ -46,9 +46,3 @@ The model was trained using the **PlantVillage Dataset**, focusing on crops like
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request to help improve the accuracy or features of this project.
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-*Developed with ❤️ to support global food security and sustainable farming.*
