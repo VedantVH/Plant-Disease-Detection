@@ -1,6 +1,6 @@
 # 🌿 Plant Disease Detection Pro
 
-![Banner](assets/banner.png)
+
 
 ## 🚀 Overview
 **Plant Disease Detection Pro** is a cutting-edge, AI-powered agricultural tool designed to help farmers and gardeners identify plant diseases instantly. By leveraging Deep Learning and computer vision, the app provides accurate classifications, treatment recommendations, and connects users with local agricultural experts.
